@@ -1,2 +1,3 @@
 # portfolio-kamadig
-Kamadigital 
+Design using figma
+CMS using Wordpress and using Elementor as page builder
